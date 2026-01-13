@@ -1,0 +1,46 @@
+#place {
+    text-align: center;
+    color: white;
+    background-color: orangered;
+    letter-spacing: 0.3px;
+    display: block;
+}
+body{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 300; 
+    text-align: justify;
+}
+
+h2{
+    font-family: 'Lato', sans-serif;
+    color: #fe5000 !important;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    text-align: center;
+    display: block;
+}
+.info {
+    padding-left: 250px;
+    padding-right: 250px;
+    text-align: center;
+    text-align: justify;
+    font-size: 20px;
+}
+.bg {
+    background: url(https://ssit.edu.in/img/college-dark-bg.jpg) no-repeat center;
+    background-size: cover;
+    padding: 50px 50px 40px 50px;
+    background-attachment: fixed;
+    padding-left: 250px;
+    padding-right: 250px;
+    text-align: center;
+    text-align: justify;
+    color: azure;
+    font-size: 20px;
+}
+.navbar-brand{
+    width: fit-content ;
+}
+
+
